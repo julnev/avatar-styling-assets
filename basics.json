@@ -1,0 +1,74 @@
+[
+  {
+    "id": "basic_001",
+    "name": "Baggy Jeans",
+    "category": "pants",
+    "type": "denim",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/baggyjeans.png"
+  },
+  {
+    "id": "basic_002",
+    "name": "Blazer",
+    "category": "outerwear",
+    "type": "tailored",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/blazer.png"
+  },
+  {
+    "id": "basic_003",
+    "name": "Blue Shirt",
+    "category": "top",
+    "type": "shirt",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/blueshirt.png"
+  },
+  {
+    "id": "basic_004",
+    "name": "Brown Barrel Pants",
+    "category": "pants",
+    "type": "casual",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/brownbarrel.png"
+  },
+  {
+    "id": "basic_005",
+    "name": "Camel Barrel Pants",
+    "category": "pants",
+    "type": "casual",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/camelbarrel.png"
+  },
+  {
+    "id": "basic_006",
+    "name": "Chino Pants",
+    "category": "pants",
+    "type": "smart-casual",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/chino.png"
+  },
+  {
+    "id": "basic_007",
+    "name": "Denim Jacket",
+    "category": "outerwear",
+    "type": "casual",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/denimjacket.png"
+  },
+  {
+    "id": "basic_008",
+    "name": "Tailored Pants",
+    "category": "pants",
+    "type": "formal",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/tailoredpants.png"
+  },
+  {
+    "id": "basic_009",
+    "name": "White Shirt",
+    "category": "top",
+    "type": "shirt",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/basics/whiteshirt.png"
+  }
+]

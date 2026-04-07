@@ -1,0 +1,130 @@
+[
+  {
+    "id": "shoes_001",
+    "name": "Ballerina",
+    "category": "shoes",
+    "type": "flat",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/ballerina.png"
+  },
+  {
+    "id": "shoes_002",
+    "name": "Black Boots",
+    "category": "shoes",
+    "type": "boots",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/black_boots.png"
+  },
+  {
+    "id": "shoes_003",
+    "name": "Black Chelsea Boots",
+    "category": "shoes",
+    "type": "boots",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/black_chelsea.png"
+  },
+  {
+    "id": "shoes_004",
+    "name": "Black Loafers",
+    "category": "shoes",
+    "type": "loafers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/black_loafers.png"
+  },
+  {
+    "id": "shoes_005",
+    "name": "Black Sneakers",
+    "category": "shoes",
+    "type": "sneakers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/black_sneakers.png"
+  },
+  {
+    "id": "shoes_006",
+    "name": "Black Superstar",
+    "category": "shoes",
+    "type": "sneakers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/black_superstar.png"
+  },
+  {
+    "id": "shoes_007",
+    "name": "Boat Shoes",
+    "category": "shoes",
+    "type": "casual",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/boat.png"
+  },
+  {
+    "id": "shoes_008",
+    "name": "Brown Boots",
+    "category": "shoes",
+    "type": "boots",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/brown_boots.png"
+  },
+  {
+    "id": "shoes_009",
+    "name": "Brown Chelsea Boots",
+    "category": "shoes",
+    "type": "boots",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/brown_chelsea.png"
+  },
+  {
+    "id": "shoes_010",
+    "name": "Brown Loafers",
+    "category": "shoes",
+    "type": "loafers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/brown_loafers.png"
+  },
+  {
+    "id": "shoes_011",
+    "name": "Chunky Chelsea Boots",
+    "category": "shoes",
+    "type": "boots",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/chunky_chelsea.png"
+  },
+  {
+    "id": "shoes_012",
+    "name": "Chunky Loafers",
+    "category": "shoes",
+    "type": "loafers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/chunky_loafers.png"
+  },
+  {
+    "id": "shoes_013",
+    "name": "Oxford Shoes",
+    "category": "shoes",
+    "type": "formal",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/oxford.png"
+  },
+  {
+    "id": "shoes_014",
+    "name": "Slingback Heels",
+    "category": "shoes",
+    "type": "heels",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/slingback_heels.png"
+  },
+  {
+    "id": "shoes_015",
+    "name": "White Sneakers",
+    "category": "shoes",
+    "type": "sneakers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/white_sneakers.png"
+  },
+  {
+    "id": "shoes_016",
+    "name": "White Superstar",
+    "category": "shoes",
+    "type": "sneakers",
+    "role": "support",
+    "image": "https://raw.githubusercontent.com/julnev/avatar-styling-assets/main/images/shoes/white_superstar.png"
+  }
+]

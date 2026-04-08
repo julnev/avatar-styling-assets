@@ -1,0 +1,240 @@
+[
+  {
+    "vibe_name": "Sporty Chic",
+  "core_intent": "Mix fashion-forward tailoring with sporty elements to create a refined but expressive look based on contrast and intentional styling",
+  "description": "A curated mix of sporty adidas pieces and elevated fashion items, blending structure and fluidity, casual and formal, in a way that feels effortless but highly intentional",
+  "tension_axes": [
+    "sporty vs tailored",
+    "relaxed vs structured",
+    "casual vs refined",
+    "vintage vs contemporary",
+    "masculine vs feminine"
+  ],
+  "silhouette": [
+    "balanced proportions (oversized + structured)",
+    "loose top + controlled or tailored bottom OR inverse",
+    "layering with visible contrast between pieces"
+  ],
+  "key_items": [
+    "track jacket",
+    "structured coat or blazer",
+    "button-up shirt or tie",
+    "midi or fluid skirt",
+    "tailored trousers",
+    "bermuda shorts"
+  ],
+  "signature_combinations": [
+    "track jacket + heels",
+    "track jacket + tie or button-up",
+    "sport top + midi skirt",
+    "tailored coat + tracksuit",
+    "vintage piece + adidas item"
+  ],
+  "styling_rules": [
+    "always mix at least 2 opposing styles",
+    "look must feel intentional, not random",
+    "clean layering with visible hierarchy",
+    "avoid full sporty look",
+    "avoid full formal look"
+  ],
+  "materials": [
+    "mix of technical (poly, nylon) and refined (wool, satin, cotton)",
+    "fluid fabrics contrasted with structured ones"
+  ],
+  "colors": [
+    "unexpected combinations",
+    "color clash or contrast palettes",
+    "mix of neutrals and bold accents"
+  ],
+  "accessories": [
+    "structured bags",
+    "sleek sunglasses",
+    "gold jewelry",
+    "elevated details"
+  ],
+  "footwear": [
+    "heels",
+    "loafers",
+    "sleek sneakers",
+    "contrast footwear vs outfit tone"
+  ],
+  "attitude": [
+    "confident",
+    "expressive",
+    "quirky chic",
+    "effortless but thought-out"
+  ],
+  "environment": [
+    "fashion week street style",
+    "urban European streets",
+    "editorial everyday setting"
+  ],
+  "validation": {
+    "must_have": [
+      "clear mix of sporty and elevated elements",
+      "intentional contrast in styling"
+    ],
+    "nice_to_have": [
+      "unexpected color combination",
+      "strong accessories",
+      "layering complexity"
+    ],
+    "fail_if": [
+      "full sporty outfit",
+      "full classic/formal outfit",
+      "no visible contrast between pieces"
+    ]
+  }
+},
+{
+  "vibe_name": "Casual",
+  "description": "A nostalgic, style-driven mix of vintage football culture, adidas heritage, and preppy tailoring. The look feels intentionally mismatched, slightly ironic, and effortlessly cool — combining sportswear with classic or unexpected pieces.",
+  "keywords": [
+    "retro football aesthetic",
+    "adidas heritage",
+    "vintage sport",
+    "terrace style",
+    "sporty preppy",
+    "grandpa core",
+    "normcore elevated",
+    "90s 00s training wear",
+    "thrifted energy",
+    "intentional mismatch"
+  ],
+  "core_pieces": [
+    "track pants with 3 stripes",
+    "long shorts or football shorts",
+    "oversized football jerseys",
+    "rugby polos or striped knits",
+    "button-up shirts",
+    "vintage track jackets"
+  ],
+  "styling_principles": [
+    "Mix sportswear with preppy or classic pieces",
+    "Outfits should feel slightly mismatched but intentional",
+    "Avoid perfectly coordinated looks",
+    "Layer unexpected combinations (jersey over shirt, shirt under knit)",
+    "Styling should feel effortless, not overly curated"
+  ],
+  "silhouette": {
+    "fit": "loose, relaxed, slightly oversized",
+    "proportions": [
+      "longer shorts",
+      "wide leg pants",
+      "dropped shoulders",
+      "slightly bulky or awkward balance"
+    ]
+  },
+  "color_palette": {
+    "base": [
+      "navy",
+      "white",
+      "black",
+      "grey",
+      "brown"
+    ],
+    "accents": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "notes": "Mix muted tones with occasional bold primary colors"
+  },
+  "footwear": [
+    "loafers",
+    "leather shoes",
+    "classic sneakers (used sparingly)",
+    "unexpected pairings (sport outfit with formal shoes)"
+  ],
+  "combination_rules": [
+    "Always mix at least two style categories (sport + preppy, sport + tailoring)",
+    "Avoid full tracksuit or full athletic looks",
+    "Balance casual and structured elements",
+    "Footwear should sometimes contrast with the outfit"
+  ],
+  
+  "vibe_attributes": [
+    "playful",
+    "ironic",
+    "nostalgic",
+    "effortlessly styled",
+    "slightly off but cool"
+  ],
+  "anti_patterns": [
+    "full clean tracksuit look",
+    "overly polished or fashion editorial styling",
+    "performance sport outfit",
+    "perfectly matched colors",
+    "too tight or fitted silhouettes"
+  ]
+}
+},
+{
+  "vibe_name": "Basic effortless",
+  "description": "A clean, minimal and comfortable everyday look inspired by off-duty athletes. The style is relaxed, practical and easy to wear, focusing on simplicity and comfort rather than styling complexity.",
+  "keywords": [
+    "effortless casual",
+    "minimal sporty",
+    "athleisure",
+    "off-duty athlete",
+    "urban everyday wear",
+    "comfort-first styling",
+    "relaxed basics"
+  ],
+  "core_pieces": [
+    "track pants",
+    "zip hoodies",
+    "track jackets",
+    "basic t-shirts",
+    "simple hoodies",
+    "classic sneakers"
+  ],
+  "styling_principles": [
+    "Keep outfits simple and functional",
+    "Prioritize comfort over styling",
+    "Use minimal layering",
+    "Avoid complex or bold combinations",
+    "Looks should feel natural and effortless"
+  ],
+  "silhouette": {
+    "fit": "relaxed",
+    "proportions": [
+      "straight leg pants",
+      "slightly loose tops",
+      "natural everyday fit"
+    ]
+  },
+
+    "accents": [
+      "soft pastels",
+      "muted tones"
+    ],
+    "notes": "Keep colors simple and easy to combine"
+  },
+  "footwear": [
+    "classic sneakers",
+    "clean minimal trainers"
+  ],
+  "materials_textures": [
+    "cotton",
+    "fleece",
+    "soft jersey",
+    "basic sportswear fabrics"
+  ],
+  "vibe_attributes": [
+    "clean",
+    "minimal",
+    "comfortable",
+    "effortless",
+    "everyday",
+    "uncomplicated"
+  ],
+  "anti_patterns": [
+    "overly styled outfits",
+    "unexpected fashion combinations",
+    "formal elements (loafers, tailoring)",
+    "bold layering",
+    "statement pieces"
+  ]
+}
+]
